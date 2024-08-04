@@ -21,6 +21,8 @@ To set up the project in your local environment, configure the `.env` file as fo
    API_URL=CG-dP8NH97FR18qzkhXWBnfzz2q
 
 3. In Terminal type npm run dev to start the backend.
+4. Open MongoDB Compass and click on "New Connection."
+5. Enter the connection string `mongodb://localhost:27017/fomoFactory` and click "Connect."
 
 
 ## Contributing
